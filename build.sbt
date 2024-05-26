@@ -2,7 +2,7 @@ name := "cqs-akka"
 
 version := "0.1"
 
-scalaVersion := "2.13.3"
+scalaVersion := "2.13.8"
 lazy val akkaVersion       = "2.6.14"
 lazy val leveldbVersion    = "0.7"
 lazy val leveldbjniVersion = "1.8"
